@@ -1,2 +1,1 @@
-# OOPSBannerApp
-OOPS Banner App- Object Oriented Programming Learning Project
+# OOPS_BANNER_APP
